@@ -45,7 +45,7 @@ If you would like to contribute to the script, please feel free to submit a pull
 # Photos
 ![sa-mp-143](https://user-images.githubusercontent.com/87475152/232159171-eef90759-aa48-464f-8c94-e469b7937f3f.png)
 ![sa-mp-144](https://user-images.githubusercontent.com/87475152/232159179-2a4110bc-b9bf-4487-81ab-405019770ba1.png)
-![sa-mp-147](https://user-images.githubusercontent.com/87475152/232159188-a307e6d0-4102-4a57-8e1e-4248491bc2a8.png)
+![sa-mp-147](https://user-images.githubusercontent.com/87475152/232159188-a307e6d0-4102-4a57-8a1e-4248491bc2a8.png)
 ![sa-mp-148](https://user-images.githubusercontent.com/87475152/232159199-639e16e1-626f-4025-a304-6cb5caeebad7.png)
 ![sa-mp-149](https://user-images.githubusercontent.com/87475152/232159205-3ec5b62c-d9b5-499b-ab3b-efb1114905ca.png)
 ![sa-mp-142](https://user-images.githubusercontent.com/87475152/232159232-4d819a91-1102-4bf5-8587-09993f0c0d33.png)
