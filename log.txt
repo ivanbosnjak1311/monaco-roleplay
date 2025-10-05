@@ -1,0 +1,2574 @@
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:05:33] [Info] 
+[18:05:33] [Info]  ===============================
+[18:05:33] [Info] 
+[18:05:33] [Info]      sscanf component loaded.   
+[18:05:33] [Info] 
+[18:05:33] [Info]          Version: 2.13.8
+[18:05:33] [Info] 
+[18:05:33] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:05:33] [Info] 
+[18:05:33] [Info]  ===============================
+[18:05:33] [Info] 
+[18:05:33] [Info] Loading plugin: crashdetect
+[18:05:33] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:05:33] [Info] Loading plugin: sscanf
+[18:05:33] [Info] Could not load plugin:
+The specified module could not be found.
+[18:05:33] [Info] Loading plugin: streamer
+[18:05:34] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:05:34] [Info] Loading plugin: mysql
+[18:05:34] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:05:34] [Error] Function not registered: bcrypt_verify
+[18:05:34] [Error] Function not registered: bcrypt_hash
+[18:05:34] [Error] Function not registered: bcrypt_get_hash
+[18:05:34] [Info] [debug] Run time error 19: "File or function is not found"
+[18:05:34] [Info] [debug]  bcrypt_get_hash
+[18:05:34] [Info] [debug]  bcrypt_hash
+[18:05:34] [Info] [debug]  bcrypt_verify
+[18:05:34] [Error] File or function is not found
+[18:05:34] [Info] [debug] Run time error 19: "File or function is not found"
+[18:05:34] [Info] [debug]  bcrypt_get_hash
+[18:05:34] [Info] [debug]  bcrypt_hash
+[18:05:34] [Info] [debug]  bcrypt_verify
+[18:05:35] [Info] Legacy Network started on port 7777
+[18:08:28] [Info] [debug] Run time error 19: "File or function is not found"
+[18:08:28] [Info] [debug]  bcrypt_get_hash
+[18:08:28] [Info] [debug]  bcrypt_hash
+[18:08:28] [Info] [debug]  bcrypt_verify
+[18:08:28] [Error] File or function is not found
+[18:08:28] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:08:28] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:08:36] [Info] Loading plugin: crashdetect
+[18:08:36] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:08:36] [Info] Loading plugin: sscanf
+[18:08:36] [Info] 
+[18:08:36] [Info]  ===============================
+[18:08:36] [Info] 
+[18:08:36] [Info]       sscanf plugin loaded.     
+[18:08:36] [Info] 
+[18:08:36] [Info]          Version: 2.13.8
+[18:08:36] [Info] 
+[18:08:36] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:08:36] [Info] 
+[18:08:36] [Info]  ===============================
+[18:08:36] [Info] 
+[18:08:36] [Info] Loading plugin: streamer
+[18:08:36] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:08:36] [Info] Loading plugin: mysql
+[18:08:36] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:08:36] [Error] Function not registered: bcrypt_verify
+[18:08:36] [Error] Function not registered: bcrypt_hash
+[18:08:36] [Error] Function not registered: bcrypt_get_hash
+[18:08:36] [Info] [debug] Run time error 19: "File or function is not found"
+[18:08:36] [Info] [debug]  bcrypt_get_hash
+[18:08:36] [Info] [debug]  bcrypt_hash
+[18:08:36] [Info] [debug]  bcrypt_verify
+[18:08:36] [Error] File or function is not found
+[18:08:36] [Info] [debug] Run time error 19: "File or function is not found"
+[18:08:36] [Info] [debug]  bcrypt_get_hash
+[18:08:36] [Info] [debug]  bcrypt_hash
+[18:08:36] [Info] [debug]  bcrypt_verify
+[18:08:36] [Info] Legacy Network started on port 7777
+[18:09:38] [Info] [debug] Run time error 19: "File or function is not found"
+[18:09:38] [Info] [debug]  bcrypt_get_hash
+[18:09:38] [Info] [debug]  bcrypt_hash
+[18:09:38] [Info] [debug]  bcrypt_verify
+[18:09:38] [Error] File or function is not found
+[18:09:38] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:09:38] [Info] 
+[18:09:38] [Info]  ===============================
+[18:09:38] [Info] 
+[18:09:38] [Info]      sscanf plugin unloaded.    
+[18:09:38] [Info] 
+[18:09:38] [Info]  ===============================
+[18:09:38] [Info] 
+[18:09:38] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component samp_bcrypt.dll
+	Failed to load component: it is a SA-MP plugin, put it in plugins/ folder.
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:10:10] [Info] Loading plugin: crashdetect
+[18:10:10] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:10:10] [Info] Loading plugin: sscanf
+[18:10:10] [Info] 
+[18:10:10] [Info]  ===============================
+[18:10:10] [Info] 
+[18:10:10] [Info]       sscanf plugin loaded.     
+[18:10:10] [Info] 
+[18:10:10] [Info]          Version: 2.13.8
+[18:10:10] [Info] 
+[18:10:10] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:10:10] [Info] 
+[18:10:10] [Info]  ===============================
+[18:10:10] [Info] 
+[18:10:10] [Info] Loading plugin: streamer
+[18:10:10] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:10:10] [Info] Loading plugin: mysql
+[18:10:10] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:10:10] [Error] Function not registered: bcrypt_verify
+[18:10:10] [Error] Function not registered: bcrypt_hash
+[18:10:10] [Error] Function not registered: bcrypt_get_hash
+[18:10:10] [Info] [debug] Run time error 19: "File or function is not found"
+[18:10:10] [Info] [debug]  bcrypt_get_hash
+[18:10:10] [Info] [debug]  bcrypt_hash
+[18:10:10] [Info] [debug]  bcrypt_verify
+[18:10:10] [Error] File or function is not found
+[18:10:10] [Info] [debug] Run time error 19: "File or function is not found"
+[18:10:10] [Info] [debug]  bcrypt_get_hash
+[18:10:10] [Info] [debug]  bcrypt_hash
+[18:10:10] [Info] [debug]  bcrypt_verify
+[18:10:10] [Info] Legacy Network started on port 7777
+[18:10:31] [Info] [debug] Run time error 19: "File or function is not found"
+[18:10:31] [Info] [debug]  bcrypt_get_hash
+[18:10:31] [Info] [debug]  bcrypt_hash
+[18:10:31] [Info] [debug]  bcrypt_verify
+[18:10:31] [Error] File or function is not found
+[18:10:31] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:10:31] [Info] 
+[18:10:31] [Info]  ===============================
+[18:10:31] [Info] 
+[18:10:31] [Info]      sscanf plugin unloaded.    
+[18:10:31] [Info] 
+[18:10:31] [Info]  ===============================
+[18:10:31] [Info] 
+[18:10:31] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:11:47] [Info] Loading plugin: crashdetect
+[18:11:47] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:11:47] [Info] Loading plugin: sscanf
+[18:11:47] [Info] 
+[18:11:47] [Info]  ===============================
+[18:11:47] [Info] 
+[18:11:47] [Info]       sscanf plugin loaded.     
+[18:11:47] [Info] 
+[18:11:47] [Info]          Version: 2.13.8
+[18:11:47] [Info] 
+[18:11:47] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:11:47] [Info] 
+[18:11:47] [Info]  ===============================
+[18:11:47] [Info] 
+[18:11:47] [Info] Loading plugin: streamer
+[18:11:47] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:11:47] [Info] Loading plugin: mysql
+[18:11:47] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:11:48] [Error] Function not registered: bcrypt_verify
+[18:11:48] [Error] Function not registered: bcrypt_hash
+[18:11:48] [Error] Function not registered: bcrypt_get_hash
+[18:11:48] [Info] [debug] Run time error 19: "File or function is not found"
+[18:11:48] [Info] [debug]  bcrypt_get_hash
+[18:11:48] [Info] [debug]  bcrypt_hash
+[18:11:48] [Info] [debug]  bcrypt_verify
+[18:11:48] [Error] File or function is not found
+[18:11:48] [Info] [debug] Run time error 19: "File or function is not found"
+[18:11:48] [Info] [debug]  bcrypt_get_hash
+[18:11:48] [Info] [debug]  bcrypt_hash
+[18:11:48] [Info] [debug]  bcrypt_verify
+[18:11:48] [Info] Legacy Network started on port 7777
+[18:11:56] [Info] [debug] Run time error 19: "File or function is not found"
+[18:11:56] [Info] [debug]  bcrypt_get_hash
+[18:11:56] [Info] [debug]  bcrypt_hash
+[18:11:56] [Info] [debug]  bcrypt_verify
+[18:11:56] [Error] File or function is not found
+[18:11:56] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:11:56] [Info] 
+[18:11:56] [Info]  ===============================
+[18:11:56] [Info] 
+[18:11:56] [Info]      sscanf plugin unloaded.    
+[18:11:56] [Info] 
+[18:11:56] [Info]  ===============================
+[18:11:56] [Info] 
+[18:11:56] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:12:40] [Info] Loading plugin: crashdetect
+[18:12:40] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:12:40] [Info] Loading plugin: sscanf
+[18:12:40] [Info] 
+[18:12:40] [Info]  ===============================
+[18:12:40] [Info] 
+[18:12:41] [Info]       sscanf plugin loaded.     
+[18:12:41] [Info] 
+[18:12:41] [Info]          Version: 2.13.8
+[18:12:41] [Info] 
+[18:12:41] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:12:41] [Info] 
+[18:12:41] [Info]  ===============================
+[18:12:41] [Info] 
+[18:12:41] [Info] Loading plugin: streamer
+[18:12:41] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:12:41] [Info] Loading plugin: mysql
+[18:12:41] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:12:41] [Error] Function not registered: bcrypt_verify
+[18:12:41] [Error] Function not registered: bcrypt_hash
+[18:12:41] [Error] Function not registered: bcrypt_get_hash
+[18:12:41] [Info] [debug] Run time error 19: "File or function is not found"
+[18:12:41] [Info] [debug]  bcrypt_get_hash
+[18:12:41] [Info] [debug]  bcrypt_hash
+[18:12:41] [Info] [debug]  bcrypt_verify
+[18:12:41] [Error] File or function is not found
+[18:12:41] [Info] [debug] Run time error 19: "File or function is not found"
+[18:12:41] [Info] [debug]  bcrypt_get_hash
+[18:12:41] [Info] [debug]  bcrypt_hash
+[18:12:41] [Info] [debug]  bcrypt_verify
+[18:12:42] [Info] Legacy Network started on port 7777
+[18:12:59] [Info] [debug] Run time error 19: "File or function is not found"
+[18:12:59] [Info] [debug]  bcrypt_get_hash
+[18:12:59] [Info] [debug]  bcrypt_hash
+[18:12:59] [Info] [debug]  bcrypt_verify
+[18:12:59] [Error] File or function is not found
+[18:12:59] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:12:59] [Info] 
+[18:12:59] [Info]  ===============================
+[18:12:59] [Info] 
+[18:12:59] [Info]      sscanf plugin unloaded.    
+[18:12:59] [Info] 
+[18:12:59] [Info]  ===============================
+[18:12:59] [Info] 
+[18:12:59] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:14:03] [Info] 
+[18:14:03] [Info]  ===============================
+[18:14:03] [Info] 
+[18:14:03] [Info]      sscanf component loaded.   
+[18:14:03] [Info] 
+[18:14:03] [Info]          Version: 2.13.8
+[18:14:03] [Info] 
+[18:14:03] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:14:03] [Info] 
+[18:14:03] [Info]  ===============================
+[18:14:03] [Info] 
+[18:14:03] [Info] Loading plugin: crashdetect
+[18:14:03] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:14:03] [Info] Loading plugin: sscanf
+[18:14:03] [Info] Could not load plugin:
+The specified module could not be found.
+[18:14:03] [Info] Loading plugin: streamer
+[18:14:03] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:14:03] [Info] Loading plugin: mysql
+[18:14:04] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:14:04] [Error] Function not registered: bcrypt_verify
+[18:14:04] [Error] Function not registered: bcrypt_hash
+[18:14:04] [Error] Function not registered: bcrypt_get_hash
+[18:14:04] [Info] [debug] Run time error 19: "File or function is not found"
+[18:14:04] [Info] [debug]  bcrypt_get_hash
+[18:14:04] [Info] [debug]  bcrypt_hash
+[18:14:04] [Info] [debug]  bcrypt_verify
+[18:14:04] [Error] File or function is not found
+[18:14:04] [Info] [debug] Run time error 19: "File or function is not found"
+[18:14:04] [Info] [debug]  bcrypt_get_hash
+[18:14:04] [Info] [debug]  bcrypt_hash
+[18:14:04] [Info] [debug]  bcrypt_verify
+[18:14:04] [Info] Legacy Network started on port 7777
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:15:45] [Info] 
+[18:15:45] [Info]  ===============================
+[18:15:45] [Info] 
+[18:15:45] [Info]      sscanf component loaded.   
+[18:15:45] [Info] 
+[18:15:45] [Info]          Version: 2.13.8
+[18:15:45] [Info] 
+[18:15:45] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:15:45] [Info] 
+[18:15:45] [Info]  ===============================
+[18:15:45] [Info] 
+[18:15:45] [Info] Loading plugin: crashdetect
+[18:15:45] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:15:45] [Info] Loading plugin: sscanf
+[18:15:45] [Info] Could not load plugin:
+The specified module could not be found.
+[18:15:45] [Info] Loading plugin: streamer
+[18:15:45] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:15:45] [Info] Loading plugin: mysql
+[18:15:45] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:15:45] [Error] Function not registered: bcrypt_verify
+[18:15:45] [Error] Function not registered: bcrypt_hash
+[18:15:45] [Error] Function not registered: bcrypt_get_hash
+[18:15:45] [Info] [debug] Run time error 19: "File or function is not found"
+[18:15:45] [Info] [debug]  bcrypt_get_hash
+[18:15:45] [Info] [debug]  bcrypt_hash
+[18:15:45] [Info] [debug]  bcrypt_verify
+[18:15:45] [Error] File or function is not found
+[18:15:45] [Info] [debug] Run time error 19: "File or function is not found"
+[18:15:45] [Info] [debug]  bcrypt_get_hash
+[18:15:45] [Info] [debug]  bcrypt_hash
+[18:15:45] [Info] [debug]  bcrypt_verify
+[18:15:45] [Error] Unable to start legacy network on port 7777. Port in use?
+[18:15:54] [Info] [debug] Run time error 19: "File or function is not found"
+[18:15:54] [Info] [debug]  bcrypt_get_hash
+[18:15:54] [Info] [debug]  bcrypt_hash
+[18:15:54] [Info] [debug]  bcrypt_verify
+[18:15:54] [Error] File or function is not found
+[18:15:54] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:15:54] [Info] plugin.mysql: Unloading plugin...
+[18:15:57] [Info] [debug] Run time error 19: "File or function is not found"
+[18:15:57] [Info] [debug]  bcrypt_get_hash
+[18:15:57] [Info] [debug]  bcrypt_hash
+[18:15:57] [Info] [debug]  bcrypt_verify
+[18:15:57] [Error] File or function is not found
+[18:15:57] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:15:57] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:16:05] [Info] 
+[18:16:05] [Info]  ===============================
+[18:16:05] [Info] 
+[18:16:05] [Info]      sscanf component loaded.   
+[18:16:05] [Info] 
+[18:16:05] [Info]          Version: 2.13.8
+[18:16:05] [Info] 
+[18:16:05] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:16:05] [Info] 
+[18:16:05] [Info]  ===============================
+[18:16:05] [Info] 
+[18:16:05] [Info] Loading plugin: crashdetect
+[18:16:05] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:16:05] [Info] Loading plugin: sscanf
+[18:16:05] [Info] Could not load plugin:
+The specified module could not be found.
+[18:16:05] [Info] Loading plugin: streamer
+[18:16:05] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:16:05] [Info] Loading plugin: mysql
+[18:16:05] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:16:05] [Error] Function not registered: bcrypt_verify
+[18:16:05] [Error] Function not registered: bcrypt_hash
+[18:16:05] [Error] Function not registered: bcrypt_get_hash
+[18:16:05] [Info] [debug] Run time error 19: "File or function is not found"
+[18:16:05] [Info] [debug]  bcrypt_get_hash
+[18:16:05] [Info] [debug]  bcrypt_hash
+[18:16:05] [Info] [debug]  bcrypt_verify
+[18:16:05] [Error] File or function is not found
+[18:16:05] [Info] [debug] Run time error 19: "File or function is not found"
+[18:16:05] [Info] [debug]  bcrypt_get_hash
+[18:16:05] [Info] [debug]  bcrypt_hash
+[18:16:05] [Info] [debug]  bcrypt_verify
+[18:16:05] [Info] Legacy Network started on port 7777
+[18:16:21] [Info] [debug] Run time error 19: "File or function is not found"
+[18:16:21] [Info] [debug]  bcrypt_get_hash
+[18:16:21] [Info] [debug]  bcrypt_hash
+[18:16:21] [Info] [debug]  bcrypt_verify
+[18:16:21] [Error] File or function is not found
+[18:16:21] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:16:21] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:18:22] [Info] 
+[18:18:22] [Info]  ===============================
+[18:18:22] [Info] 
+[18:18:22] [Info]      sscanf component loaded.   
+[18:18:22] [Info] 
+[18:18:22] [Info]          Version: 2.13.8
+[18:18:22] [Info] 
+[18:18:22] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:18:22] [Info] 
+[18:18:22] [Info]  ===============================
+[18:18:22] [Info] 
+[18:18:22] [Info] Loading plugin: crashdetect
+[18:18:22] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:18:22] [Info] Loading plugin: sscanf
+[18:18:22] [Info] Could not load plugin:
+The specified module could not be found.
+[18:18:22] [Info] Loading plugin: streamer
+[18:18:22] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:18:22] [Info] Loading plugin: mysql
+[18:18:22] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:18:22] [Error] Function not registered: bcrypt_verify
+[18:18:22] [Error] Function not registered: bcrypt_hash
+[18:18:22] [Error] Function not registered: bcrypt_get_hash
+[18:18:22] [Info] [debug] Run time error 19: "File or function is not found"
+[18:18:22] [Info] [debug]  bcrypt_get_hash
+[18:18:22] [Info] [debug]  bcrypt_hash
+[18:18:22] [Info] [debug]  bcrypt_verify
+[18:18:22] [Error] File or function is not found
+[18:18:22] [Info] [debug] Run time error 19: "File or function is not found"
+[18:18:22] [Info] [debug]  bcrypt_get_hash
+[18:18:22] [Info] [debug]  bcrypt_hash
+[18:18:22] [Info] [debug]  bcrypt_verify
+[18:18:22] [Info] Legacy Network started on port 7777
+[18:18:37] [Info] [debug] Run time error 19: "File or function is not found"
+[18:18:37] [Info] [debug]  bcrypt_get_hash
+[18:18:37] [Info] [debug]  bcrypt_hash
+[18:18:37] [Info] [debug]  bcrypt_verify
+[18:18:37] [Error] File or function is not found
+[18:18:37] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:18:37] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:19:59] [Info] 
+[18:19:59] [Info]  ===============================
+[18:19:59] [Info] 
+[18:19:59] [Info]      sscanf component loaded.   
+[18:19:59] [Info] 
+[18:19:59] [Info]          Version: 2.13.8
+[18:19:59] [Info] 
+[18:19:59] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:19:59] [Info] 
+[18:19:59] [Info]  ===============================
+[18:19:59] [Info] 
+[18:19:59] [Info] Loading plugin: crashdetect
+[18:19:59] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:19:59] [Info] Loading plugin: sscanf
+[18:19:59] [Info] Could not load plugin:
+The specified module could not be found.
+[18:19:59] [Info] Loading plugin: streamer
+[18:19:59] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:19:59] [Info] Loading plugin: mysql
+[18:19:59] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:19:59] [Error] Function not registered: bcrypt_verify
+[18:19:59] [Error] Function not registered: bcrypt_hash
+[18:19:59] [Error] Function not registered: bcrypt_get_hash
+[18:19:59] [Info] [debug] Run time error 19: "File or function is not found"
+[18:19:59] [Info] [debug]  bcrypt_get_hash
+[18:19:59] [Info] [debug]  bcrypt_hash
+[18:19:59] [Info] [debug]  bcrypt_verify
+[18:19:59] [Error] File or function is not found
+[18:19:59] [Info] [debug] Run time error 19: "File or function is not found"
+[18:19:59] [Info] [debug]  bcrypt_get_hash
+[18:19:59] [Info] [debug]  bcrypt_hash
+[18:19:59] [Info] [debug]  bcrypt_verify
+[18:19:59] [Info] Legacy Network started on port 7777
+[18:20:47] [Info] [debug] Run time error 19: "File or function is not found"
+[18:20:47] [Info] [debug]  bcrypt_get_hash
+[18:20:47] [Info] [debug]  bcrypt_hash
+[18:20:47] [Info] [debug]  bcrypt_verify
+[18:20:47] [Error] File or function is not found
+[18:20:47] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:20:47] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:21:24] [Info] Loading plugin: crashdetect
+[18:21:25] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:21:25] [Info] Loading plugin: sscanf
+[18:21:25] [Info] Could not load plugin:
+The specified module could not be found.
+[18:21:25] [Info] Loading plugin: streamer
+[18:21:25] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:21:25] [Info] Loading plugin: mysql
+[18:21:25] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:21:26] [Error] Function not registered: bcrypt_verify
+[18:21:26] [Error] Function not registered: bcrypt_hash
+[18:21:26] [Error] Function not registered: bcrypt_get_hash
+[18:21:26] [Error] Function not registered: SSCANF__
+[18:21:26] [Error] Function not registered: SSCANF_TextSimilarity
+[18:21:26] [Error] Function not registered: SSCANF_Leave
+[18:21:26] [Error] Function not registered: SSCANF_Join
+[18:21:26] [Error] Function not registered: SSCANF_IsConnected
+[18:21:26] [Error] Function not registered: SSCANF_Init
+[18:21:26] [Info] [debug] Run time error 19: "File or function is not found"
+[18:21:26] [Info] [debug]  SSCANF_Init
+[18:21:26] [Info] [debug]  SSCANF_IsConnected
+[18:21:26] [Info] [debug]  SSCANF_Join
+[18:21:26] [Info] [debug]  SSCANF_Leave
+[18:21:26] [Info] [debug]  SSCANF_TextSimilarity
+[18:21:26] [Info] [debug]  SSCANF__
+[18:21:26] [Info] [debug]  bcrypt_get_hash
+[18:21:26] [Info] [debug]  bcrypt_hash
+[18:21:26] [Info] [debug]  bcrypt_verify
+[18:21:26] [Error] File or function is not found
+[18:21:26] [Info] [debug] Run time error 19: "File or function is not found"
+[18:21:26] [Info] [debug]  SSCANF_Init
+[18:21:26] [Info] [debug]  SSCANF_IsConnected
+[18:21:26] [Info] [debug]  SSCANF_Join
+[18:21:26] [Info] [debug]  SSCANF_Leave
+[18:21:26] [Info] [debug]  SSCANF_TextSimilarity
+[18:21:26] [Info] [debug]  SSCANF__
+[18:21:26] [Info] [debug]  bcrypt_get_hash
+[18:21:26] [Info] [debug]  bcrypt_hash
+[18:21:26] [Info] [debug]  bcrypt_verify
+[18:21:26] [Info] Legacy Network started on port 7777
+[18:21:32] [Info] [debug] Run time error 19: "File or function is not found"
+[18:21:32] [Info] [debug]  SSCANF_Init
+[18:21:32] [Info] [debug]  SSCANF_IsConnected
+[18:21:32] [Info] [debug]  SSCANF_Join
+[18:21:32] [Info] [debug]  SSCANF_Leave
+[18:21:32] [Info] [debug]  SSCANF_TextSimilarity
+[18:21:32] [Info] [debug]  SSCANF__
+[18:21:32] [Info] [debug]  bcrypt_get_hash
+[18:21:32] [Info] [debug]  bcrypt_hash
+[18:21:32] [Info] [debug]  bcrypt_verify
+[18:21:33] [Error] File or function is not found
+[18:21:33] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:21:33] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:28:03] [Info] 
+[18:28:03] [Info]  ===============================
+[18:28:03] [Info] 
+[18:28:03] [Info]      sscanf component loaded.   
+[18:28:03] [Info] 
+[18:28:03] [Info]          Version: 2.13.8
+[18:28:03] [Info] 
+[18:28:03] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:28:03] [Info] 
+[18:28:03] [Info]  ===============================
+[18:28:03] [Info] 
+[18:28:03] [Info] Loading plugin: crashdetect
+[18:28:03] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:28:03] [Info] Loading plugin: sscanf
+[18:28:03] [Info] Could not load plugin:
+The specified module could not be found.
+[18:28:03] [Info] Loading plugin: streamer
+[18:28:03] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:28:03] [Info] Loading plugin: mysql
+[18:28:03] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:28:03] [Error] Function not registered: bcrypt_verify
+[18:28:03] [Error] Function not registered: bcrypt_hash
+[18:28:03] [Error] Function not registered: bcrypt_get_hash
+[18:28:03] [Info] [debug] Run time error 19: "File or function is not found"
+[18:28:03] [Info] [debug]  bcrypt_get_hash
+[18:28:03] [Info] [debug]  bcrypt_hash
+[18:28:03] [Info] [debug]  bcrypt_verify
+[18:28:03] [Error] File or function is not found
+[18:28:03] [Info] [debug] Run time error 19: "File or function is not found"
+[18:28:03] [Info] [debug]  bcrypt_get_hash
+[18:28:03] [Info] [debug]  bcrypt_hash
+[18:28:03] [Info] [debug]  bcrypt_verify
+[18:28:03] [Info] Legacy Network started on port 7777
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:30:04] [Info] 
+[18:30:04] [Info]  ===============================
+[18:30:04] [Info] 
+[18:30:04] [Info]      sscanf component loaded.   
+[18:30:04] [Info] 
+[18:30:04] [Info]          Version: 2.13.8
+[18:30:04] [Info] 
+[18:30:04] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:30:04] [Info] 
+[18:30:04] [Info]  ===============================
+[18:30:04] [Info] 
+[18:30:04] [Info] Loading plugin: crashdetect
+[18:30:04] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:30:04] [Info] Loading plugin: sscanf
+[18:30:04] [Info] Could not load plugin:
+The specified module could not be found.
+[18:30:04] [Info] Loading plugin: streamer
+[18:30:04] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:30:04] [Info] Loading plugin: mysql
+[18:30:04] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:30:04] [Error] Function not registered: bcrypt_verify
+[18:30:04] [Error] Function not registered: bcrypt_hash
+[18:30:04] [Error] Function not registered: bcrypt_get_hash
+[18:30:04] [Info] [debug] Run time error 19: "File or function is not found"
+[18:30:04] [Info] [debug]  bcrypt_get_hash
+[18:30:04] [Info] [debug]  bcrypt_hash
+[18:30:04] [Info] [debug]  bcrypt_verify
+[18:30:04] [Error] File or function is not found
+[18:30:04] [Info] [debug] Run time error 19: "File or function is not found"
+[18:30:04] [Info] [debug]  bcrypt_get_hash
+[18:30:04] [Info] [debug]  bcrypt_hash
+[18:30:04] [Info] [debug]  bcrypt_verify
+[18:30:04] [Error] Unable to start legacy network on port 7777. Port in use?
+[18:30:07] [Info] [debug] Run time error 19: "File or function is not found"
+[18:30:07] [Info] [debug]  bcrypt_get_hash
+[18:30:07] [Info] [debug]  bcrypt_hash
+[18:30:07] [Info] [debug]  bcrypt_verify
+[18:30:07] [Error] File or function is not found
+[18:30:07] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:30:07] [Info] plugin.mysql: Unloading plugin...
+[18:31:11] [Info] [debug] Run time error 19: "File or function is not found"
+[18:31:11] [Info] [debug]  bcrypt_get_hash
+[18:31:11] [Info] [debug]  bcrypt_hash
+[18:31:11] [Info] [debug]  bcrypt_verify
+[18:31:11] [Error] File or function is not found
+[18:31:11] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:31:11] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:31:18] [Info] 
+[18:31:18] [Info]  ===============================
+[18:31:18] [Info] 
+[18:31:18] [Info]      sscanf component loaded.   
+[18:31:18] [Info] 
+[18:31:18] [Info]          Version: 2.13.8
+[18:31:18] [Info] 
+[18:31:18] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:31:18] [Info] 
+[18:31:18] [Info]  ===============================
+[18:31:18] [Info] 
+[18:31:18] [Info] Loading plugin: crashdetect
+[18:31:18] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:31:18] [Info] Loading plugin: sscanf
+[18:31:19] [Info] 
+[18:31:19] [Info]  ===============================
+[18:31:19] [Info] 
+[18:31:19] [Info]       sscanf plugin loaded.     
+[18:31:19] [Info] 
+[18:31:19] [Info]          Version: 2.13.8
+[18:31:19] [Info] 
+[18:31:19] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:31:19] [Info] 
+[18:31:19] [Info]  ===============================
+[18:31:19] [Info] 
+[18:31:19] [Info] Loading plugin: streamer
+[18:31:19] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:31:19] [Info] Loading plugin: mysql
+[18:31:19] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:31:19] [Warning] Tried to register native which is already registered: SSCANF_Init
+[18:31:19] [Warning] Tried to register native which is already registered: SSCANF_IsConnected
+[18:31:19] [Warning] Tried to register native which is already registered: SSCANF_Join
+[18:31:19] [Warning] Tried to register native which is already registered: SSCANF_Leave
+[18:31:19] [Warning] Tried to register native which is already registered: SSCANF_TextSimilarity
+[18:31:19] [Warning] Tried to register native which is already registered: SSCANF__
+[18:31:19] [Error] Function not registered: bcrypt_verify
+[18:31:19] [Error] Function not registered: bcrypt_hash
+[18:31:19] [Error] Function not registered: bcrypt_get_hash
+[18:31:19] [Info] [debug] Run time error 19: "File or function is not found"
+[18:31:19] [Info] [debug]  bcrypt_get_hash
+[18:31:19] [Info] [debug]  bcrypt_hash
+[18:31:19] [Info] [debug]  bcrypt_verify
+[18:31:19] [Error] File or function is not found
+[18:31:19] [Info] [debug] Run time error 19: "File or function is not found"
+[18:31:19] [Info] [debug]  bcrypt_get_hash
+[18:31:19] [Info] [debug]  bcrypt_hash
+[18:31:19] [Info] [debug]  bcrypt_verify
+[18:31:19] [Info] Legacy Network started on port 7777
+[18:31:35] [Info] [debug] Run time error 19: "File or function is not found"
+[18:31:35] [Info] [debug]  bcrypt_get_hash
+[18:31:35] [Info] [debug]  bcrypt_hash
+[18:31:35] [Info] [debug]  bcrypt_verify
+[18:31:35] [Error] File or function is not found
+[18:31:35] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:31:35] [Info] 
+[18:31:35] [Info]  ===============================
+[18:31:35] [Info] 
+[18:31:35] [Info]      sscanf plugin unloaded.    
+[18:31:35] [Info] 
+[18:31:35] [Info]  ===============================
+[18:31:35] [Info] 
+[18:31:35] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:31:51] [Info] Loading plugin: crashdetect
+[18:31:51] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:31:51] [Info] Loading plugin: sscanf
+[18:31:51] [Info] 
+[18:31:51] [Info]  ===============================
+[18:31:51] [Info] 
+[18:31:51] [Info]       sscanf plugin loaded.     
+[18:31:51] [Info] 
+[18:31:51] [Info]          Version: 2.13.8
+[18:31:51] [Info] 
+[18:31:51] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:31:51] [Info] 
+[18:31:51] [Info]  ===============================
+[18:31:51] [Info] 
+[18:31:51] [Info] Loading plugin: streamer
+[18:31:51] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:31:51] [Info] Loading plugin: mysql
+[18:31:51] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:31:51] [Error] Function not registered: bcrypt_verify
+[18:31:51] [Error] Function not registered: bcrypt_hash
+[18:31:51] [Error] Function not registered: bcrypt_get_hash
+[18:31:51] [Info] [debug] Run time error 19: "File or function is not found"
+[18:31:51] [Info] [debug]  bcrypt_get_hash
+[18:31:51] [Info] [debug]  bcrypt_hash
+[18:31:51] [Info] [debug]  bcrypt_verify
+[18:31:51] [Error] File or function is not found
+[18:31:51] [Info] [debug] Run time error 19: "File or function is not found"
+[18:31:51] [Info] [debug]  bcrypt_get_hash
+[18:31:51] [Info] [debug]  bcrypt_hash
+[18:31:51] [Info] [debug]  bcrypt_verify
+[18:31:51] [Info] Legacy Network started on port 7777
+[18:33:28] [Info] [debug] Run time error 19: "File or function is not found"
+[18:33:28] [Info] [debug]  bcrypt_get_hash
+[18:33:28] [Info] [debug]  bcrypt_hash
+[18:33:28] [Info] [debug]  bcrypt_verify
+[18:33:28] [Error] File or function is not found
+[18:33:28] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:33:28] [Info] 
+[18:33:28] [Info]  ===============================
+[18:33:28] [Info] 
+[18:33:28] [Info]      sscanf plugin unloaded.    
+[18:33:28] [Info] 
+[18:33:28] [Info]  ===============================
+[18:33:28] [Info] 
+[18:33:28] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:37:55] [Info] Loading plugin: crashdetect
+[18:37:55] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:37:55] [Info] Loading plugin: sscanf
+[18:37:55] [Info] 
+[18:37:55] [Info]  ===============================
+[18:37:55] [Info] 
+[18:37:55] [Info]       sscanf plugin loaded.     
+[18:37:55] [Info] 
+[18:37:55] [Info]          Version: 2.13.8
+[18:37:55] [Info] 
+[18:37:55] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:37:55] [Info] 
+[18:37:55] [Info]  ===============================
+[18:37:55] [Info] 
+[18:37:55] [Info] Loading plugin: streamer
+[18:37:55] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:37:55] [Info] Loading plugin: mysql
+[18:37:56] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:37:56] [Error] Function not registered: bcrypt_verify
+[18:37:56] [Error] Function not registered: bcrypt_hash
+[18:37:56] [Error] Function not registered: bcrypt_get_hash
+[18:37:56] [Info] [debug] Run time error 19: "File or function is not found"
+[18:37:56] [Info] [debug]  bcrypt_get_hash
+[18:37:56] [Info] [debug]  bcrypt_hash
+[18:37:56] [Info] [debug]  bcrypt_verify
+[18:37:56] [Error] File or function is not found
+[18:37:56] [Info] [debug] Run time error 19: "File or function is not found"
+[18:37:56] [Info] [debug]  bcrypt_get_hash
+[18:37:56] [Info] [debug]  bcrypt_hash
+[18:37:56] [Info] [debug]  bcrypt_verify
+[18:37:56] [Info] Legacy Network started on port 7777
+[18:38:06] [Info] [debug] Run time error 19: "File or function is not found"
+[18:38:06] [Info] [debug]  bcrypt_get_hash
+[18:38:06] [Info] [debug]  bcrypt_hash
+[18:38:06] [Info] [debug]  bcrypt_verify
+[18:38:06] [Error] File or function is not found
+[18:38:06] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:38:06] [Info] 
+[18:38:06] [Info]  ===============================
+[18:38:06] [Info] 
+[18:38:06] [Info]      sscanf plugin unloaded.    
+[18:38:06] [Info] 
+[18:38:06] [Info]  ===============================
+[18:38:06] [Info] 
+[18:38:06] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component samp_bcrypt.dll
+	Failed to load component: it is a SA-MP plugin, put it in plugins/ folder.
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:39:17] [Info] Loading plugin: crashdetect
+[18:39:17] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:39:17] [Info] Loading plugin: sscanf
+[18:39:17] [Info] 
+[18:39:18] [Info]  ===============================
+[18:39:18] [Info] 
+[18:39:18] [Info]       sscanf plugin loaded.     
+[18:39:18] [Info] 
+[18:39:18] [Info]          Version: 2.13.8
+[18:39:18] [Info] 
+[18:39:18] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:39:18] [Info] 
+[18:39:18] [Info]  ===============================
+[18:39:19] [Info] 
+[18:39:19] [Info] Loading plugin: streamer
+[18:39:19] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:39:19] [Info] Loading plugin: mysql
+[18:39:19] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:39:20] [Error] Function not registered: bcrypt_verify
+[18:39:21] [Error] Function not registered: bcrypt_hash
+[18:39:21] [Error] Function not registered: bcrypt_get_hash
+[18:39:21] [Info] [debug] Run time error 19: "File or function is not found"
+[18:39:21] [Info] [debug]  bcrypt_get_hash
+[18:39:21] [Info] [debug]  bcrypt_hash
+[18:39:21] [Info] [debug]  bcrypt_verify
+[18:39:21] [Error] File or function is not found
+[18:39:21] [Info] [debug] Run time error 19: "File or function is not found"
+[18:39:21] [Info] [debug]  bcrypt_get_hash
+[18:39:22] [Info] [debug]  bcrypt_hash
+[18:39:22] [Info] [debug]  bcrypt_verify
+[18:39:22] [Info] Legacy Network started on port 7777
+[18:39:25] [Info] [debug] Run time error 19: "File or function is not found"
+[18:39:25] [Info] [debug]  bcrypt_get_hash
+[18:39:26] [Info] [debug]  bcrypt_hash
+[18:39:26] [Info] [debug]  bcrypt_verify
+[18:39:26] [Error] File or function is not found
+[18:39:26] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[18:39:26] [Info] 
+[18:39:26] [Info]  ===============================
+[18:39:26] [Info] 
+[18:39:26] [Info]      sscanf plugin unloaded.    
+[18:39:27] [Info] 
+[18:39:27] [Info]  ===============================
+[18:39:27] [Info] 
+[18:39:28] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+Executing Server Config...
+[18:40:21] [Info] Loading plugin: crashdetect
+[18:40:21] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[18:40:21] [Info] Loading plugin: sscanf
+[18:40:21] [Info] 
+[18:40:21] [Info]  ===============================
+[18:40:21] [Info] 
+[18:40:21] [Info]       sscanf plugin loaded.     
+[18:40:21] [Info] 
+[18:40:21] [Info]          Version: 2.13.8
+[18:40:21] [Info] 
+[18:40:21] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[18:40:21] [Info] 
+[18:40:21] [Info]  ===============================
+[18:40:21] [Info] 
+[18:40:21] [Info] Loading plugin: streamer
+[18:40:21] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:40:21] [Info] Loading plugin: mysql
+[18:40:21] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[18:40:22] [Error] Function not registered: bcrypt_verify
+[18:40:22] [Error] Function not registered: bcrypt_hash
+[18:40:22] [Error] Function not registered: bcrypt_get_hash
+[18:40:22] [Info] [debug] Run time error 19: "File or function is not found"
+[18:40:22] [Info] [debug]  bcrypt_get_hash
+[18:40:22] [Info] [debug]  bcrypt_hash
+[18:40:22] [Info] [debug]  bcrypt_verify
+[18:40:22] [Error] File or function is not found
+[18:40:22] [Info] [debug] Run time error 19: "File or function is not found"
+[18:40:22] [Info] [debug]  bcrypt_get_hash
+[18:40:22] [Info] [debug]  bcrypt_hash
+[18:40:22] [Info] [debug]  bcrypt_verify
+[18:40:22] [Info] Legacy Network started on port 7777
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+[2025-10-05T18:43:04+0200] [Info] Loading plugin: crashdetect
+[2025-10-05T18:43:04+0200] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[2025-10-05T18:43:04+0200] [Info] Loading plugin: streamer
+[2025-10-05T18:43:04+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[2025-10-05T18:43:04+0200] [Info] Loading plugin: mysql
+[2025-10-05T18:43:04+0200] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[2025-10-05T18:43:04+0200] [Info] Loading plugin: samp_bcrypt
+[2025-10-05T18:43:04+0200] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[2025-10-05T18:43:04+0200] [Error] Function not registered: SSCANF__
+[2025-10-05T18:43:04+0200] [Error] Function not registered: SSCANF_TextSimilarity
+[2025-10-05T18:43:04+0200] [Error] Function not registered: SSCANF_Leave
+[2025-10-05T18:43:04+0200] [Error] Function not registered: SSCANF_Join
+[2025-10-05T18:43:04+0200] [Error] Function not registered: SSCANF_IsConnected
+[2025-10-05T18:43:04+0200] [Error] Function not registered: SSCANF_Init
+[2025-10-05T18:43:04+0200] [Info] [debug] Run time error 19: "File or function is not found"
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_Init
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_IsConnected
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_Join
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_Leave
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_TextSimilarity
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF__
+[2025-10-05T18:43:04+0200] [Error] File or function is not found
+[2025-10-05T18:43:04+0200] [Info] [debug] Run time error 19: "File or function is not found"
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_Init
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_IsConnected
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_Join
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_Leave
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF_TextSimilarity
+[2025-10-05T18:43:04+0200] [Info] [debug]  SSCANF__
+[2025-10-05T18:43:04+0200] [Info] Legacy Network started on port 7777
+[2025-10-05T18:43:15+0200] [Warning] Couldn't announce legacy network to open.mp list.
+[2025-10-05T18:43:15+0200] [Warning] 	 Status: 406
+[2025-10-05T18:43:15+0200] [Warning] 	 Message: {"error":"failed to query server: socket read timed out"}
+[2025-10-05T18:43:15+0200] [Warning] This won't affect the server's behaviour.
+[2025-10-05T18:43:21+0200] [Info] [debug] Run time error 19: "File or function is not found"
+[2025-10-05T18:43:21+0200] [Info] [debug]  SSCANF_Init
+[2025-10-05T18:43:22+0200] [Info] [debug]  SSCANF_IsConnected
+[2025-10-05T18:43:22+0200] [Info] [debug]  SSCANF_Join
+[2025-10-05T18:43:22+0200] [Info] [debug]  SSCANF_Leave
+[2025-10-05T18:43:22+0200] [Info] [debug]  SSCANF_TextSimilarity
+[2025-10-05T18:43:22+0200] [Info] [debug]  SSCANF__
+[2025-10-05T18:43:22+0200] [Error] File or function is not found
+[2025-10-05T18:43:22+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[2025-10-05T18:43:22+0200] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+[2025-10-05T18:44:11+0200] [Info] 
+[2025-10-05T18:44:11+0200] [Info]  ===============================
+[2025-10-05T18:44:11+0200] [Info] 
+[2025-10-05T18:44:11+0200] [Info]      sscanf component loaded.   
+[2025-10-05T18:44:11+0200] [Info] 
+[2025-10-05T18:44:11+0200] [Info]          Version: 2.13.8
+[2025-10-05T18:44:11+0200] [Info] 
+[2025-10-05T18:44:11+0200] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[2025-10-05T18:44:11+0200] [Info] 
+[2025-10-05T18:44:11+0200] [Info]  ===============================
+[2025-10-05T18:44:11+0200] [Info] 
+[2025-10-05T18:44:11+0200] [Info] Loading plugin: crashdetect
+[2025-10-05T18:44:11+0200] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[2025-10-05T18:44:11+0200] [Info] Loading plugin: streamer
+[2025-10-05T18:44:11+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[2025-10-05T18:44:11+0200] [Info] Loading plugin: mysql
+[2025-10-05T18:44:11+0200] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[2025-10-05T18:44:11+0200] [Info] Loading plugin: samp_bcrypt
+[2025-10-05T18:44:11+0200] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[2025-10-05T18:44:12+0200] [Info]  
+[2025-10-05T18:44:12+0200] [Info]  
+[2025-10-05T18:44:12+0200] [Info]          ==============================================================
+[2025-10-05T18:44:12+0200] [Info]          |                                                            |
+[2025-10-05T18:44:12+0200] [Info]          |                                                            |
+[2025-10-05T18:44:12+0200] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[2025-10-05T18:44:12+0200] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[2025-10-05T18:44:12+0200] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[2025-10-05T18:44:12+0200] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[2025-10-05T18:44:12+0200] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T18:44:12+0200] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[2025-10-05T18:44:12+0200] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[2025-10-05T18:44:12+0200] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[2025-10-05T18:44:12+0200] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[2025-10-05T18:44:12+0200] [Info]          |                                                            |
+[2025-10-05T18:44:12+0200] [Info]          |                                                            |
+[2025-10-05T18:44:12+0200] [Info]          |                      (c) 2021 MPL v1.1                     |
+[2025-10-05T18:44:12+0200] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[2025-10-05T18:44:12+0200] [Info]          |                                                            |
+[2025-10-05T18:44:12+0200] [Info]          |                                                            |
+[2025-10-05T18:44:12+0200] [Info]          ==============================================================
+[2025-10-05T18:44:12+0200] [Info]  
+[2025-10-05T18:44:12+0200] [Info]  
+[2025-10-05T18:44:12+0200] [Info]  ========================================== 
+[2025-10-05T18:44:12+0200] [Info]  |                                        | 
+[2025-10-05T18:44:12+0200] [Info]  |   Generating code, this may take a     | 
+[2025-10-05T18:44:12+0200] [Info]  |  little bit of time.  Note that this   | 
+[2025-10-05T18:44:12+0200] [Info]  |  code generation works best with the   | 
+[2025-10-05T18:44:12+0200] [Info]  |     JIT plugin, which you are not      | 
+[2025-10-05T18:44:12+0200] [Info]  |     currently using.  Get it here:     | 
+[2025-10-05T18:44:12+0200] [Info]  |                                        | 
+[2025-10-05T18:44:12+0200] [Info]  |       https://git.io/jit-plugin        | 
+[2025-10-05T18:44:12+0200] [Info]  |                                        | 
+[2025-10-05T18:44:12+0200] [Info]  |             Please wait...             | 
+[2025-10-05T18:44:13+0200] [Info]  |                                        | 
+[2025-10-05T18:44:13+0200] [Info]  |             Done in 1262ms!            | 
+[2025-10-05T18:44:13+0200] [Info]  |                                        | 
+[2025-10-05T18:44:13+0200] [Info]  ========================================== 
+[2025-10-05T18:44:13+0200] [Info] *** YSI Info: Script ID: 1
+[2025-10-05T18:44:13+0200] [Info]  |                                        | 
+[2025-10-05T18:44:13+0200] [Info]  | Server:      open.mp 1.4.0.2783 (W)    | 
+[2025-10-05T18:44:13+0200] [Info]  | Started:     05 Oct 2025 - 18:44:12    | 
+[2025-10-05T18:44:13+0200] [Info]  |                                        | 
+[2025-10-05T18:44:13+0200] [Info]  | Compiler:    3.10.11 (Windows)         | 
+[2025-10-05T18:44:13+0200] [Info]  | Includes:    open.mp v037030           | 
+[2025-10-05T18:44:13+0200] [Info]  | Codepage:    <none>                    | 
+[2025-10-05T18:44:13+0200] [Info]  | Built:       05 Oct 2025 - 18:43:53    | 
+[2025-10-05T18:44:14+0200] [Info]  |                                        | 
+[2025-10-05T18:44:14+0200] [Info]  | YSI:         v05.10.0006               | 
+[2025-10-05T18:44:14+0200] [Info]  | Master:      1                         | 
+[2025-10-05T18:44:14+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T18:44:14+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T18:44:14+0200] [Info] [debug] #0 00002ca8 in Server_PrintIntroPart (588) at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1085
+[2025-10-05T18:44:14+0200] [Info] [debug] #1 000050e0 in YVers_PrintHeader () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_version.inc:638
+[2025-10-05T18:44:14+0200] [Info] [debug] #2 000053a4 in YVers_StartCheck () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_version.inc:779
+[2025-10-05T18:44:14+0200] [Info] [debug] #3 000040f0 in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1864
+[2025-10-05T18:44:14+0200] [Info]  |                                        | 
+[2025-10-05T18:44:14+0200] [Info]  | JIT:         <none>                    | 
+[2025-10-05T18:44:14+0200] [Info]  | Crashdetect: <found>                   | 
+[2025-10-05T18:44:14+0200] [Info]  |                                        | 
+[2025-10-05T18:44:14+0200] [Info]  ========================================== 
+[2025-10-05T18:44:14+0200] [Info]  
+[2025-10-05T18:44:14+0200] [Info]  
+[2025-10-05T18:44:31+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T18:44:32+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T18:44:32+0200] [Info] [debug] #0 000a13d4 in DS_LoadGlobalTextDraws () at backend/vehicles/car_dealership.pwn:857
+[2025-10-05T18:44:32+0200] [Info] [debug] #1 0009cf90 in _@yHOnGameModeInit@0@ () at backend/vehicles/car_dealership.pwn:610
+[2025-10-05T18:44:32+0200] [Info] [debug] #2 0001c3cc in public OnScriptInit@E () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[2025-10-05T18:44:32+0200] [Info] [debug] #3 native CallLocalFunction () in Pawn.dll
+[2025-10-05T18:44:32+0200] [Info] [debug] #4 000041ec in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[2025-10-05T18:44:33+0200] [Info] MapFix by Nexius v4.6.6 loaded (include version).
+[2025-10-05T18:44:33+0200] [Info] -                                     -
+[2025-10-05T18:44:33+0200] [Info]  Scripter : Danis Cavalic (Slade)
+[2025-10-05T18:44:33+0200] [Info]  Monaco : v0.1
+[2025-10-05T18:44:33+0200] [Info]  Credits : realnaith (myserver) 
+[2025-10-05T18:44:33+0200] [Info] -                                     -
+[2025-10-05T18:44:33+0200] [Info] Legacy Network started on port 7777
+[2025-10-05T18:44:33+0200] [Info] MapFix by Nexius v4.6.6 unloaded (include version).
+[2025-10-05T18:44:33+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T18:44:33+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T18:44:33+0200] [Info] [debug] #0 0008db2c in DestroyMapFixObjects () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:1312
+[2025-10-05T18:44:33+0200] [Info] [debug] #1 000657bc in ScriptInit_OnGameModeExit ()  at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:78
+[2025-10-05T18:44:33+0200] [Info] [debug] #2 000042b0 in public OnGameModeExit () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1967
+[2025-10-05T18:44:33+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[2025-10-05T18:44:33+0200] [Info] plugin.mysql: Unloading plugin...
+[2025-10-05T18:44:33+0200] [Info] plugin.mysql: Plugin unloaded.
+[2025-10-05T18:44:33+0200] [Info] 
+[2025-10-05T18:44:33+0200] [Info]  ===============================
+[2025-10-05T18:44:33+0200] [Info] 
+[2025-10-05T18:44:33+0200] [Info]     sscanf component unloaded.  
+[2025-10-05T18:44:33+0200] [Info] 
+[2025-10-05T18:44:33+0200] [Info]  ===============================
+[2025-10-05T18:44:33+0200] [Info] 
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+[2025-10-05T19:40:01+0200] [Info] 
+[2025-10-05T19:40:01+0200] [Info]  ===============================
+[2025-10-05T19:40:01+0200] [Info] 
+[2025-10-05T19:40:01+0200] [Info]      sscanf component loaded.   
+[2025-10-05T19:40:01+0200] [Info] 
+[2025-10-05T19:40:01+0200] [Info]          Version: 2.13.8
+[2025-10-05T19:40:01+0200] [Info] 
+[2025-10-05T19:40:01+0200] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[2025-10-05T19:40:01+0200] [Info] 
+[2025-10-05T19:40:01+0200] [Info]  ===============================
+[2025-10-05T19:40:01+0200] [Info] 
+[2025-10-05T19:40:01+0200] [Info] Loading plugin: crashdetect
+[2025-10-05T19:40:01+0200] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[2025-10-05T19:40:01+0200] [Info] Loading plugin: streamer
+[2025-10-05T19:40:01+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[2025-10-05T19:40:01+0200] [Info] Loading plugin: mysql
+[2025-10-05T19:40:02+0200] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[2025-10-05T19:40:02+0200] [Info] Loading plugin: samp_bcrypt
+[2025-10-05T19:40:02+0200] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[2025-10-05T19:40:02+0200] [Info]  
+[2025-10-05T19:40:02+0200] [Info]  
+[2025-10-05T19:40:02+0200] [Info]          ==============================================================
+[2025-10-05T19:40:02+0200] [Info]          |                                                            |
+[2025-10-05T19:40:02+0200] [Info]          |                                                            |
+[2025-10-05T19:40:02+0200] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[2025-10-05T19:40:02+0200] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[2025-10-05T19:40:02+0200] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[2025-10-05T19:40:02+0200] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[2025-10-05T19:40:02+0200] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T19:40:02+0200] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[2025-10-05T19:40:02+0200] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[2025-10-05T19:40:02+0200] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[2025-10-05T19:40:02+0200] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[2025-10-05T19:40:02+0200] [Info]          |                                                            |
+[2025-10-05T19:40:02+0200] [Info]          |                                                            |
+[2025-10-05T19:40:02+0200] [Info]          |                      (c) 2021 MPL v1.1                     |
+[2025-10-05T19:40:02+0200] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[2025-10-05T19:40:02+0200] [Info]          |                                                            |
+[2025-10-05T19:40:02+0200] [Info]          |                                                            |
+[2025-10-05T19:40:02+0200] [Info]          ==============================================================
+[2025-10-05T19:40:02+0200] [Info]  
+[2025-10-05T19:40:02+0200] [Info]  
+[2025-10-05T19:40:02+0200] [Info]  ========================================== 
+[2025-10-05T19:40:02+0200] [Info]  |                                        | 
+[2025-10-05T19:40:02+0200] [Info]  |   Generating code, this may take a     | 
+[2025-10-05T19:40:02+0200] [Info]  |  little bit of time.  Note that this   | 
+[2025-10-05T19:40:02+0200] [Info]  |  code generation works best with the   | 
+[2025-10-05T19:40:02+0200] [Info]  |     JIT plugin, which you are not      | 
+[2025-10-05T19:40:02+0200] [Info]  |     currently using.  Get it here:     | 
+[2025-10-05T19:40:02+0200] [Info]  |                                        | 
+[2025-10-05T19:40:02+0200] [Info]  |       https://git.io/jit-plugin        | 
+[2025-10-05T19:40:02+0200] [Info]  |                                        | 
+[2025-10-05T19:40:02+0200] [Info]  |             Please wait...             | 
+[2025-10-05T19:40:03+0200] [Info]  |                                        | 
+[2025-10-05T19:40:03+0200] [Info]  |             Done in 1055ms!            | 
+[2025-10-05T19:40:03+0200] [Info]  |                                        | 
+[2025-10-05T19:40:03+0200] [Info]  ========================================== 
+[2025-10-05T19:40:03+0200] [Info] *** YSI Info: Script ID: 1
+[2025-10-05T19:40:03+0200] [Info]  |                                        | 
+[2025-10-05T19:40:03+0200] [Info]  | Server:      open.mp 1.4.0.2783 (W)    | 
+[2025-10-05T19:40:03+0200] [Info]  | Started:     05 Oct 2025 - 19:40:02    | 
+[2025-10-05T19:40:03+0200] [Info]  |                                        | 
+[2025-10-05T19:40:03+0200] [Info]  | Compiler:    3.10.11 (Windows)         | 
+[2025-10-05T19:40:03+0200] [Info]  | Includes:    open.mp v037030           | 
+[2025-10-05T19:40:03+0200] [Info]  | Codepage:    <none>                    | 
+[2025-10-05T19:40:03+0200] [Info]  | Built:       05 Oct 2025 - 19:38:41    | 
+[2025-10-05T19:40:03+0200] [Info]  |                                        | 
+[2025-10-05T19:40:03+0200] [Info]  | YSI:         v05.10.0006               | 
+[2025-10-05T19:40:03+0200] [Info]  | Master:      1                         | 
+[2025-10-05T19:40:03+0200] [Info]  |                                        | 
+[2025-10-05T19:40:03+0200] [Info]  | JIT:         <none>                    | 
+[2025-10-05T19:40:03+0200] [Info]  | Crashdetect: <found>                   | 
+[2025-10-05T19:40:03+0200] [Info]  |                                        | 
+[2025-10-05T19:40:03+0200] [Info]  ========================================== 
+[2025-10-05T19:40:03+0200] [Info]  
+[2025-10-05T19:40:03+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:40:03+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:40:03+0200] [Info] [debug] #0 00007330 in AMX_GetEntryPrefix (E_AMX_TABLE:table=0, idx=71, &buffer=@028cd430 0, pattern=1598650688) at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_amx_impl.inc:1170
+[2025-10-05T19:40:03+0200] [Info] [debug] #1 000073d0 in AMX_GetPointerPrefix (E_AMX_TABLE:table=0, idx=0, &buffer=@028cd450 0, pattern=1598650688) at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_amx_impl.inc:2016
+[2025-10-05T19:40:04+0200] [Info] [debug] #2 0000bc58 in ScriptInit_PreInitFuncs_ () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_core_entry.inc:558
+[2025-10-05T19:40:04+0200] [Info] [debug] #3 00004118 in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1867
+[2025-10-05T19:40:04+0200] [Info]  
+[2025-10-05T19:40:04+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:40:04+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:40:04+0200] [Info] [debug] #0 000a300c in DS_LoadGlobalTextDraws () at backend/vehicles/car_dealership.pwn:969
+[2025-10-05T19:40:04+0200] [Info] [debug] #1 0009cf90 in _@yHOnGameModeInit@0@ () at backend/vehicles/car_dealership.pwn:610
+[2025-10-05T19:40:04+0200] [Info] [debug] #2 0001c3cc in public OnScriptInit@E () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[2025-10-05T19:40:04+0200] [Info] [debug] #3 native CallLocalFunction () in Pawn.dll
+[2025-10-05T19:40:04+0200] [Info] [debug] #4 000041ec in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[2025-10-05T19:40:04+0200] [Info] MapFix by Nexius v4.6.6 loaded (include version).
+[2025-10-05T19:40:04+0200] [Info] -                                     -
+[2025-10-05T19:40:04+0200] [Info]  Scripter : Danis Cavalic (Slade)
+[2025-10-05T19:40:04+0200] [Info]  Monaco : v0.1
+[2025-10-05T19:40:04+0200] [Info]  Credits : realnaith (myserver) 
+[2025-10-05T19:40:04+0200] [Info] -                                     -
+[2025-10-05T19:40:04+0200] [Info] Legacy Network started on port 7777
+[2025-10-05T19:40:14+0200] [Warning] Couldn't announce legacy network to open.mp list.
+[2025-10-05T19:40:14+0200] [Warning] 	 Status: 406
+[2025-10-05T19:40:14+0200] [Warning] 	 Message: {"error":"failed to query server: socket read timed out"}
+[2025-10-05T19:40:14+0200] [Warning] This won't affect the server's behaviour.
+[2025-10-05T19:41:03+0200] [Info] [connection] incoming connection: 127.0.0.1:62556 id: 0
+[2025-10-05T19:41:03+0200] [Info] [join] Ivo_Bosnjak has joined the server (0:127.0.0.1)
+[2025-10-05T19:41:12+0200] [Warning] Invalid dialog ID -1 used.  Use `HidePlayerDialog()`.
+[2025-10-05T19:44:39+0200] [Info] [part] Ivo_Bosnjak has left the server (0:1)
+[2025-10-05T19:44:56+0200] [Info] MapFix by Nexius v4.6.6 unloaded (include version).
+[2025-10-05T19:44:56+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:44:56+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:44:56+0200] [Info] [debug] #0 0008db2c in DestroyMapFixObjects () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:1312
+[2025-10-05T19:44:56+0200] [Info] [debug] #1 000657bc in ScriptInit_OnGameModeExit ()  at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:78
+[2025-10-05T19:44:56+0200] [Info] [debug] #2 000042b0 in public OnGameModeExit () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1967
+[2025-10-05T19:44:56+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[2025-10-05T19:44:56+0200] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+[2025-10-05T19:45:04+0200] [Info] 
+[2025-10-05T19:45:04+0200] [Info]  ===============================
+[2025-10-05T19:45:04+0200] [Info] 
+[2025-10-05T19:45:04+0200] [Info]      sscanf component loaded.   
+[2025-10-05T19:45:05+0200] [Info] 
+[2025-10-05T19:45:05+0200] [Info]          Version: 2.13.8
+[2025-10-05T19:45:05+0200] [Info] 
+[2025-10-05T19:45:05+0200] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[2025-10-05T19:45:05+0200] [Info] 
+[2025-10-05T19:45:05+0200] [Info]  ===============================
+[2025-10-05T19:45:05+0200] [Info] 
+[2025-10-05T19:45:05+0200] [Info] Loading plugin: crashdetect
+[2025-10-05T19:45:05+0200] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[2025-10-05T19:45:05+0200] [Info] Loading plugin: streamer
+[2025-10-05T19:45:05+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[2025-10-05T19:45:05+0200] [Info] Loading plugin: mysql
+[2025-10-05T19:45:05+0200] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[2025-10-05T19:45:05+0200] [Info] Loading plugin: samp_bcrypt
+[2025-10-05T19:45:05+0200] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[2025-10-05T19:45:05+0200] [Info]  
+[2025-10-05T19:45:05+0200] [Info]  
+[2025-10-05T19:45:05+0200] [Info]          ==============================================================
+[2025-10-05T19:45:05+0200] [Info]          |                                                            |
+[2025-10-05T19:45:05+0200] [Info]          |                                                            |
+[2025-10-05T19:45:05+0200] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[2025-10-05T19:45:05+0200] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[2025-10-05T19:45:05+0200] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[2025-10-05T19:45:05+0200] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[2025-10-05T19:45:05+0200] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T19:45:05+0200] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[2025-10-05T19:45:05+0200] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[2025-10-05T19:45:05+0200] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[2025-10-05T19:45:05+0200] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[2025-10-05T19:45:05+0200] [Info]          |                                                            |
+[2025-10-05T19:45:05+0200] [Info]          |                                                            |
+[2025-10-05T19:45:05+0200] [Info]          |                      (c) 2021 MPL v1.1                     |
+[2025-10-05T19:45:05+0200] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[2025-10-05T19:45:05+0200] [Info]          |                                                            |
+[2025-10-05T19:45:05+0200] [Info]          |                                                            |
+[2025-10-05T19:45:05+0200] [Info]          ==============================================================
+[2025-10-05T19:45:05+0200] [Info]  
+[2025-10-05T19:45:05+0200] [Info]  
+[2025-10-05T19:45:05+0200] [Info]  ========================================== 
+[2025-10-05T19:45:05+0200] [Info]  |                                        | 
+[2025-10-05T19:45:05+0200] [Info]  |   Generating code, this may take a     | 
+[2025-10-05T19:45:05+0200] [Info]  |  little bit of time.  Note that this   | 
+[2025-10-05T19:45:05+0200] [Info]  |  code generation works best with the   | 
+[2025-10-05T19:45:05+0200] [Info]  |     JIT plugin, which you are not      | 
+[2025-10-05T19:45:05+0200] [Info]  |     currently using.  Get it here:     | 
+[2025-10-05T19:45:05+0200] [Info]  |                                        | 
+[2025-10-05T19:45:05+0200] [Info]  |       https://git.io/jit-plugin        | 
+[2025-10-05T19:45:05+0200] [Info]  |                                        | 
+[2025-10-05T19:45:05+0200] [Info]  |             Please wait...             | 
+[2025-10-05T19:45:06+0200] [Info]  |                                        | 
+[2025-10-05T19:45:06+0200] [Info]  |             Done in 825ms!             | 
+[2025-10-05T19:45:06+0200] [Info]  |                                        | 
+[2025-10-05T19:45:06+0200] [Info]  ========================================== 
+[2025-10-05T19:45:06+0200] [Info] *** YSI Info: Script ID: 1
+[2025-10-05T19:45:06+0200] [Info]  |                                        | 
+[2025-10-05T19:45:06+0200] [Info]  | Server:      open.mp 1.4.0.2783 (W)    | 
+[2025-10-05T19:45:06+0200] [Info]  | Started:     05 Oct 2025 - 19:45:05    | 
+[2025-10-05T19:45:06+0200] [Info]  |                                        | 
+[2025-10-05T19:45:06+0200] [Info]  | Compiler:    3.10.11 (Windows)         | 
+[2025-10-05T19:45:06+0200] [Info]  | Includes:    open.mp v037030           | 
+[2025-10-05T19:45:06+0200] [Info]  | Codepage:    <none>                    | 
+[2025-10-05T19:45:06+0200] [Info]  | Built:       05 Oct 2025 - 19:38:41    | 
+[2025-10-05T19:45:06+0200] [Info]  |                                        | 
+[2025-10-05T19:45:06+0200] [Info]  | YSI:         v05.10.0006               | 
+[2025-10-05T19:45:06+0200] [Info]  | Master:      1                         | 
+[2025-10-05T19:45:06+0200] [Info]  |                                        | 
+[2025-10-05T19:45:06+0200] [Info]  | JIT:         <none>                    | 
+[2025-10-05T19:45:06+0200] [Info]  | Crashdetect: <found>                   | 
+[2025-10-05T19:45:06+0200] [Info]  |                                        | 
+[2025-10-05T19:45:06+0200] [Info]  ========================================== 
+[2025-10-05T19:45:06+0200] [Info]  
+[2025-10-05T19:45:06+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:45:06+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:45:06+0200] [Info] [debug] #0 00007330 in AMX_GetEntryPrefix (E_AMX_TABLE:table=0, idx=71, &buffer=@028cd430 0, pattern=1598650688) at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_amx_impl.inc:1170
+[2025-10-05T19:45:06+0200] [Info] [debug] #1 000073d0 in AMX_GetPointerPrefix (E_AMX_TABLE:table=0, idx=0, &buffer=@028cd450 0, pattern=1598650688) at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_amx_impl.inc:2016
+[2025-10-05T19:45:06+0200] [Info] [debug] #2 0000bc58 in ScriptInit_PreInitFuncs_ () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_core_entry.inc:558
+[2025-10-05T19:45:06+0200] [Info] [debug] #3 00004118 in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1867
+[2025-10-05T19:45:06+0200] [Info]  
+[2025-10-05T19:45:06+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:45:06+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:45:06+0200] [Info] [debug] #0 000a300c in DS_LoadGlobalTextDraws () at backend/vehicles/car_dealership.pwn:969
+[2025-10-05T19:45:07+0200] [Info] [debug] #1 0009cf90 in _@yHOnGameModeInit@0@ () at backend/vehicles/car_dealership.pwn:610
+[2025-10-05T19:45:07+0200] [Info] [debug] #2 0001c3cc in public OnScriptInit@E () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[2025-10-05T19:45:07+0200] [Info] [debug] #3 native CallLocalFunction () in Pawn.dll
+[2025-10-05T19:45:07+0200] [Info] [debug] #4 000041ec in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[2025-10-05T19:45:07+0200] [Info] MapFix by Nexius v4.6.6 loaded (include version).
+[2025-10-05T19:45:07+0200] [Info] -                                     -
+[2025-10-05T19:45:07+0200] [Info]  Scripter : Danis Cavalic (Slade)
+[2025-10-05T19:45:07+0200] [Info]  Monaco : v0.1
+[2025-10-05T19:45:07+0200] [Info]  Credits : realnaith (myserver) 
+[2025-10-05T19:45:07+0200] [Info] -                                     -
+[2025-10-05T19:45:07+0200] [Info] Legacy Network started on port 7777
+[2025-10-05T19:45:17+0200] [Warning] Couldn't announce legacy network to open.mp list.
+[2025-10-05T19:45:17+0200] [Warning] 	 Status: 406
+[2025-10-05T19:45:17+0200] [Warning] 	 Message: {"error":"failed to query server: socket read timed out"}
+[2025-10-05T19:45:17+0200] [Warning] This won't affect the server's behaviour.
+[2025-10-05T19:45:29+0200] [Info] [connection] incoming connection: 127.0.0.1:64730 id: 0
+[2025-10-05T19:45:29+0200] [Info] [join] Ivo_Bosnjak has joined the server (0:127.0.0.1)
+[2025-10-05T19:45:35+0200] [Warning] Invalid dialog ID -1 used.  Use `HidePlayerDialog()`.
+[2025-10-05T19:46:14+0200] [Info] [part] Ivo_Bosnjak has left the server (0:1)
+[2025-10-05T19:47:31+0200] [Info] MapFix by Nexius v4.6.6 unloaded (include version).
+[2025-10-05T19:47:31+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:47:31+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:47:31+0200] [Info] [debug] #0 0008d9c0 in DestroyMapFixObjects () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:1305
+[2025-10-05T19:47:31+0200] [Info] [debug] #1 000657bc in ScriptInit_OnGameModeExit ()  at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:78
+[2025-10-05T19:47:31+0200] [Info] [debug] #2 000042b0 in public OnGameModeExit () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1967
+[2025-10-05T19:47:31+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[2025-10-05T19:47:31+0200] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component sscanf.dll
+	Successfully loaded component sscanf (2.13.8.0) with UID a1e7c01e55caa1f2
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\components
+[2025-10-05T19:47:49+0200] [Info] 
+[2025-10-05T19:47:49+0200] [Info]  ===============================
+[2025-10-05T19:47:49+0200] [Info] 
+[2025-10-05T19:47:49+0200] [Info]      sscanf component loaded.   
+[2025-10-05T19:47:49+0200] [Info] 
+[2025-10-05T19:47:49+0200] [Info]          Version: 2.13.8
+[2025-10-05T19:47:49+0200] [Info] 
+[2025-10-05T19:47:49+0200] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[2025-10-05T19:47:49+0200] [Info] 
+[2025-10-05T19:47:49+0200] [Info]  ===============================
+[2025-10-05T19:47:49+0200] [Info] 
+[2025-10-05T19:47:49+0200] [Info] Loading plugin: crashdetect
+[2025-10-05T19:47:49+0200] [Info]   CrashDetect plugin 4.22-1-gcd608b6
+[2025-10-05T19:47:50+0200] [Info] Loading plugin: streamer
+[2025-10-05T19:47:50+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[2025-10-05T19:47:50+0200] [Info] Loading plugin: mysql
+[2025-10-05T19:47:50+0200] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[2025-10-05T19:47:50+0200] [Info] Loading plugin: samp_bcrypt
+[2025-10-05T19:47:50+0200] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[2025-10-05T19:47:50+0200] [Info]  
+[2025-10-05T19:47:50+0200] [Info]  
+[2025-10-05T19:47:50+0200] [Info]          ==============================================================
+[2025-10-05T19:47:50+0200] [Info]          |                                                            |
+[2025-10-05T19:47:50+0200] [Info]          |                                                            |
+[2025-10-05T19:47:50+0200] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[2025-10-05T19:47:50+0200] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[2025-10-05T19:47:50+0200] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[2025-10-05T19:47:50+0200] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[2025-10-05T19:47:50+0200] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[2025-10-05T19:47:50+0200] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[2025-10-05T19:47:50+0200] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[2025-10-05T19:47:50+0200] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[2025-10-05T19:47:50+0200] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[2025-10-05T19:47:50+0200] [Info]          |                                                            |
+[2025-10-05T19:47:50+0200] [Info]          |                                                            |
+[2025-10-05T19:47:50+0200] [Info]          |                      (c) 2021 MPL v1.1                     |
+[2025-10-05T19:47:50+0200] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[2025-10-05T19:47:50+0200] [Info]          |                                                            |
+[2025-10-05T19:47:50+0200] [Info]          |                                                            |
+[2025-10-05T19:47:50+0200] [Info]          ==============================================================
+[2025-10-05T19:47:50+0200] [Info]  
+[2025-10-05T19:47:50+0200] [Info]  
+[2025-10-05T19:47:50+0200] [Info]  ========================================== 
+[2025-10-05T19:47:50+0200] [Info]  |                                        | 
+[2025-10-05T19:47:50+0200] [Info]  |   Generating code, this may take a     | 
+[2025-10-05T19:47:50+0200] [Info]  |  little bit of time.  Note that this   | 
+[2025-10-05T19:47:50+0200] [Info]  |  code generation works best with the   | 
+[2025-10-05T19:47:50+0200] [Info]  |     JIT plugin, which you are not      | 
+[2025-10-05T19:47:50+0200] [Info]  |     currently using.  Get it here:     | 
+[2025-10-05T19:47:50+0200] [Info]  |                                        | 
+[2025-10-05T19:47:50+0200] [Info]  |       https://git.io/jit-plugin        | 
+[2025-10-05T19:47:50+0200] [Info]  |                                        | 
+[2025-10-05T19:47:50+0200] [Info]  |             Please wait...             | 
+[2025-10-05T19:47:51+0200] [Info]  |                                        | 
+[2025-10-05T19:47:51+0200] [Info]  |             Done in 802ms!             | 
+[2025-10-05T19:47:51+0200] [Info]  |                                        | 
+[2025-10-05T19:47:51+0200] [Info]  ========================================== 
+[2025-10-05T19:47:51+0200] [Info] *** YSI Info: Script ID: 1
+[2025-10-05T19:47:51+0200] [Info]  |                                        | 
+[2025-10-05T19:47:51+0200] [Info]  | Server:      open.mp 1.4.0.2783 (W)    | 
+[2025-10-05T19:47:51+0200] [Info]  | Started:     05 Oct 2025 - 19:47:50    | 
+[2025-10-05T19:47:51+0200] [Info]  |                                        | 
+[2025-10-05T19:47:51+0200] [Info]  | Compiler:    3.10.11 (Windows)         | 
+[2025-10-05T19:47:51+0200] [Info]  | Includes:    open.mp v037030           | 
+[2025-10-05T19:47:51+0200] [Info]  | Codepage:    <none>                    | 
+[2025-10-05T19:47:51+0200] [Info]  | Built:       05 Oct 2025 - 19:47:32    | 
+[2025-10-05T19:47:51+0200] [Info]  |                                        | 
+[2025-10-05T19:47:51+0200] [Info]  | YSI:         v05.10.0006               | 
+[2025-10-05T19:47:51+0200] [Info]  | Master:      1                         | 
+[2025-10-05T19:47:51+0200] [Info]  |                                        | 
+[2025-10-05T19:47:51+0200] [Info]  | JIT:         <none>                    | 
+[2025-10-05T19:47:51+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:47:51+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:47:51+0200] [Info] [debug] #0 00002a10 in Server_PrintIntroPart (47360) at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1049
+[2025-10-05T19:47:51+0200] [Info] [debug] #1 00005364 in YVers_PrintHeader () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_version.inc:679
+[2025-10-05T19:47:51+0200] [Info] [debug] #2 000053a4 in YVers_StartCheck () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_version.inc:779
+[2025-10-05T19:47:51+0200] [Info] [debug] #3 000040f0 in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1864
+[2025-10-05T19:47:51+0200] [Info]  | Crashdetect: <found>                   | 
+[2025-10-05T19:47:51+0200] [Info]  |                                        | 
+[2025-10-05T19:47:51+0200] [Info]  ========================================== 
+[2025-10-05T19:47:51+0200] [Info]  
+[2025-10-05T19:47:51+0200] [Info]  
+[2025-10-05T19:47:51+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:47:51+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:47:51+0200] [Info] [debug] #0 000a18b4 in DS_LoadGlobalTextDraws () at backend/vehicles/car_dealership.pwn:880
+[2025-10-05T19:47:52+0200] [Info] [debug] #1 0009cf4c in _@yHOnGameModeInit@0@ () at backend/vehicles/car_dealership.pwn:610
+[2025-10-05T19:47:52+0200] [Info] [debug] #2 0001c3cc in public OnScriptInit@E () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[2025-10-05T19:47:52+0200] [Info] [debug] #3 native CallLocalFunction () in Pawn.dll
+[2025-10-05T19:47:52+0200] [Info] [debug] #4 000041ec in public Timers_OnPlayerConnect () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[2025-10-05T19:47:52+0200] [Info] MapFix by Nexius v4.6.6 loaded (include version).
+[2025-10-05T19:47:52+0200] [Info] -                                     -
+[2025-10-05T19:47:52+0200] [Info]  Scripter : Danis Cavalic (Slade)
+[2025-10-05T19:47:52+0200] [Info]  Monaco : v0.1
+[2025-10-05T19:47:52+0200] [Info]  Credits : realnaith (myserver) 
+[2025-10-05T19:47:52+0200] [Info] -                                     -
+[2025-10-05T19:47:52+0200] [Info] Legacy Network started on port 7777
+[2025-10-05T19:48:02+0200] [Warning] Couldn't announce legacy network to open.mp list.
+[2025-10-05T19:48:02+0200] [Warning] 	 Status: 406
+[2025-10-05T19:48:02+0200] [Warning] 	 Message: {"error":"failed to query server: socket read timed out"}
+[2025-10-05T19:48:02+0200] [Warning] This won't affect the server's behaviour.
+[2025-10-05T19:48:08+0200] [Info] MapFix by Nexius v4.6.6 unloaded (include version).
+[2025-10-05T19:48:08+0200] [Info] [debug] Long callback execution detected (hang or performance issue)
+[2025-10-05T19:48:08+0200] [Info] [debug] AMX backtrace:
+[2025-10-05T19:48:08+0200] [Info] [debug] #0 0008d988 in DestroyMapFixObjects () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:1303
+[2025-10-05T19:48:08+0200] [Info] [debug] #1 000657bc in ScriptInit_OnGameModeExit ()  at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\mapfix.inc:78
+[2025-10-05T19:48:08+0200] [Info] [debug] #2 000042b0 in public OnGameModeExit () at C:\Users\ivanb\Documents\Web i programiranje\SAMP+Open.Mp gamemodovi\monaco-roleplay\qawno\include\ysilib\YSI_Coding\y_hooks\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1967
+[2025-10-05T19:48:08+0200] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[2025-10-05T19:48:08+0200] [Info] plugin.mysql: Unloading plugin...

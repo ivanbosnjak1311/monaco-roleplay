@@ -6,6 +6,12 @@ Welcome to the Monaco: SA-MP RolePlay Script for Beginners! This is a custom rol
 - Car ownership with dealership (work in progress): The script includes a dealership system that allows players to purchase and own their own cars. While this feature is still a work in progress, it will be fully functional in the near future.
 - ORM-Based SQL: Server uses ORM based sql commands, allowing beginners that does not have specific experience in sql language to save and load data from the database.
 
+# Technical Notes
+- This gamemode has been adapted to the **Open.MP** client modification.
+- Password hashing has been changed from the original SHA256 approach to **bcrypt** for stronger security using the `samp-bcrypt` plugin.  
+  Registration and login flows now use asynchronous bcrypt hashing and verification.  
+  Make sure to include the `samp-bcrypt` plugin in your `plugins/` folder.
+
 # Credits
 - Credits to realnaith, developer of myserver, that was used as a base for this script.
 - Credits to all include developers: Y_Less, samp-incognito, .. and list goes on.
@@ -39,7 +45,7 @@ If you would like to contribute to the script, please feel free to submit a pull
 # Photos
 ![sa-mp-143](https://user-images.githubusercontent.com/87475152/232159171-eef90759-aa48-464f-8c94-e469b7937f3f.png)
 ![sa-mp-144](https://user-images.githubusercontent.com/87475152/232159179-2a4110bc-b9bf-4487-81ab-405019770ba1.png)
-![sa-mp-147](https://user-images.githubusercontent.com/87475152/232159188-a307e6d0-4102-4a57-8a1e-4248491bc2a8.png)
+![sa-mp-147](https://user-images.githubusercontent.com/87475152/232159188-a307e6d0-4102-4a57-8e1e-4248491bc2a8.png)
 ![sa-mp-148](https://user-images.githubusercontent.com/87475152/232159199-639e16e1-626f-4025-a304-6cb5caeebad7.png)
 ![sa-mp-149](https://user-images.githubusercontent.com/87475152/232159205-3ec5b62c-d9b5-499b-ab3b-efb1114905ca.png)
 ![sa-mp-142](https://user-images.githubusercontent.com/87475152/232159232-4d819a91-1102-4bf5-8587-09993f0c0d33.png)

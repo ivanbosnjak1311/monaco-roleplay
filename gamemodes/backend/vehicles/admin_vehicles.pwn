@@ -8,7 +8,7 @@
     Developed by Danis Čavalić.
 */
 #include    <ysilib\YSI_Coding\y_hooks>
-#include 	"backend/vehicles/vehicles_data/utilities.pwn"
+#include 	"backend/vehicles/utilities.pwn"
 
 static 
 	AdminVozilo[MAX_PLAYERS];

@@ -23,11 +23,11 @@
 #define		YSI_YES_HEAP_MALLOC
 #define 	CGEN_MEMORY 		60000
 //			Core Includes
-#include 	<a_samp>
-#include 	<a_actor>
-#include 	<a_objects>
-#include 	<a_players>
-#include 	<a_vehicles>
+#include 	<open.mp>
+#include 	<omp_actor>
+#include 	<omp_object>
+#include 	<omp_player>
+#include 	<omp_vehicle>
 #include 	<crashdetect>
 #include 	<ysilib\YSI_Coding\y_hooks>
 #include 	<ysilib\YSI_Coding\y_va>
@@ -41,8 +41,8 @@
 #include 	<streamer>
 #include 	<mapfix>
 #include 	<easyDialog>
-#include 	<formatex>
 #include 	<distance>
+#include 	<samp_bcrypt>
 // --------------------------------------------------------------------//
 //          Assets
 #include 	"utils/main.pwn"
@@ -140,9 +140,9 @@ public OnGameModeInit()
 	ShowPlayerMarkers(PLAYER_MARKERS_MODE_OFF);
 	SetNameTagDrawDistance(20.0);
 	LimitGlobalChatRadius(20.0);
-	AllowInteriorWeapons(1);
+	AllowInteriorWeapons(true);
 	EnableVehicleFriendlyFire();
-	EnableStuntBonusForAll(0);
+	EnableStuntBonusForAll(false);
 
 	return 1;
 }
@@ -171,7 +171,7 @@ public OnPlayerClickPlayerTextDraw(playerid, PlayerText:playertextid) {
 
 public OnPlayerConnect(playerid)
 {
-	TogglePlayerSpectating(playerid, 0);
+	TogglePlayerSpectating(playerid, false);
 	SetPlayerColor(playerid, x_white);
 	LoadPlayer(playerid);
 
@@ -282,6 +282,10 @@ public OnAccountLoad(playerid, race_check)
 				);
 			}
 		}
+		case ERROR_INVALID:
+    	{
+        	printf("[ORM] Player %d ima nevažeći ORM handle!", playerid);
+    	}
 	}
 	return 1;
 }
@@ -354,7 +358,7 @@ public OnPlayerSpawn(playerid)
 	return 1;
 }
 
-public OnPlayerDeath(playerid, killerid, reason)
+public OnPlayerDeath(playerid, killerid, WEAPON:reason)
 {
 	UpdatePlayerDeaths(playerid);
 	UpdatePlayerKills(killerid);
@@ -367,6 +371,56 @@ public OnPlayerRegister(playerid)
 {
 	ToggleWrapperGUI(playerid, false);
 	StartCharacterRegistration(playerid);
+	return 1;
+}
+
+forward OnRegisterHash(playerid);
+public OnRegisterHash(playerid)
+{
+ 	new hash[BCRYPT_HASH_LENGTH];
+	bcrypt_get_hash(hash, sizeof(hash));
+	
+	for (new i = 0; i < BCRYPT_HASH_LENGTH; i++)
+    {
+        Player[playerid][Password][i] = hash[i];
+    }
+
+	Player[playerid][Registered] = 0;
+
+	Dialog_Show(playerid, "dialog_regmail", DIALOG_STYLE_INPUT, server_dialog_header,
+	//
+		""c_torq"Odlicno %s, vas racun je registriran sa unesenom lozinkom.\n\
+		Koristite ovo ime kako biste se logirali na vas racun u buducnosti.\n\n\
+		{FFFFFF}Sada unesite validnu e-mail adresu koju ce koristiti vas racun:",
+	//
+		"Potvrdi", "Izlaz", 
+		ReturnPlayerNameEx(playerid)
+	);
+	return 1;
+}
+
+forward OnPasswordVerify(playerid, bool:success);
+public OnPasswordVerify(playerid, bool:success) 
+{
+	if(success)
+	{
+		ToggleWrapperGUI(playerid, false);
+		KillTimer(Player[playerid][LoginTimer]);
+		Player[playerid][LoginTimer] = 0;
+		if(Player[playerid][Registered] == 1) LogPlayer(playerid);
+		else StartCharacterRegistration(playerid);
+	}
+	else
+	{
+		Player[playerid][LoginAttempts]++;
+
+		if (Player[playerid][LoginAttempts] >= 3) DelayedKick(playerid);
+		else Dialog_Show(playerid, "dialog_login", DIALOG_STYLE_PASSWORD, server_dialog_header,
+				""c_red"Niste unijeli ispravnu lozinku (%d/3) za racun %s.\n\n{FFFFFF}Unesite lozinku racuna za nastavak igre:",
+				"Prijava", "Izlaz", 
+				Player[playerid][LoginAttempts], ReturnPlayerNameEx(playerid)
+			);
+	}
 	return 1;
 }
 
@@ -383,20 +437,7 @@ Dialog: dialog_regpassword(playerid, response, listitem, string: inputtext[])
 											ReturnPlayerNameEx(playerid)
 										);
 
-	for (new i = 0; i < 16; i++) Player[playerid][Salt][i] = random(94) + 33;
-	SHA256_PassHash(inputtext, Player[playerid][Salt], Player[playerid][Password], 65);
-
-	Player[playerid][Registered] = 0;
-
-	Dialog_Show(playerid, "dialog_regmail", DIALOG_STYLE_INPUT, server_dialog_header,
-	//
-		""c_torq"Odlicno %s, vas racun je registriran sa unesenom lozinkom.\n\
-		Koristite ovo ime kako biste se logirali na vas racun u buducnosti.\n\n\
-		{FFFFFF}Sada unesite validnu e-mail adresu koju ce koristiti vas racun:",
-	//
-		"Potvrdi", "Izlaz", 
-		ReturnPlayerNameEx(playerid)
-	);
+	bcrypt_hash(playerid, "OnRegisterHash", inputtext, BCRYPT_COST);
 
 	return 1;
 }
@@ -436,28 +477,7 @@ Dialog: dialog_login(const playerid, response, listitem, string: inputtext[])
 {
 	if (!response) return Kick(playerid);
 
-	new hashed_pass[65];
-	SHA256_PassHash(inputtext, Player[playerid][Salt], hashed_pass, 65);
-
-	if (strcmp(hashed_pass, Player[playerid][Password]) == 0)
-	{
-		ToggleWrapperGUI(playerid, false);
-		KillTimer(Player[playerid][LoginTimer]);
-		Player[playerid][LoginTimer] = 0;
-		if(Player[playerid][Registered] == 1) LogPlayer(playerid);
-		else StartCharacterRegistration(playerid);
-	}
-	else
-	{
-		Player[playerid][LoginAttempts]++;
-
-		if (Player[playerid][LoginAttempts] >= 3) DelayedKick(playerid);
-		else Dialog_Show(playerid, "dialog_login", DIALOG_STYLE_PASSWORD, server_dialog_header,
-				""c_red"Niste unijeli ispravnu lozinku (%d/3) za racun %s.\n\n{FFFFFF}Unesite lozinku racuna za nastavak igre:",
-				"Prijava", "Izlaz", 
-				Player[playerid][LoginAttempts], ReturnPlayerNameEx(playerid)
-			);
-	}
+	bcrypt_verify(playerid, "OnPasswordVerify", inputtext, Player[playerid][Password]);
 
 	return 1;
 }
@@ -466,13 +486,13 @@ LogPlayer(playerid) {
 	// player init
 	TogglePlayerSpectating(playerid, false);
 	Player[playerid][IsLogged] = true;
-	SetSpawnInfo(playerid, NO_TEAM, Player[playerid][Skin], Player[playerid][X_Pos], Player[playerid][Y_Pos], Player[playerid][Z_Pos], Player[playerid][A_Pos], 0, 0, 0, 0, 0, 0);
+	SetSpawnInfo(playerid, NO_TEAM, Player[playerid][Skin], Player[playerid][X_Pos], Player[playerid][Y_Pos], Player[playerid][Z_Pos], Player[playerid][A_Pos], WEAPON_FIST, 0, WEAPON_FIST, 0, WEAPON_FIST, 0);
 	SpawnPlayer(playerid);
 
 	// set values
 	GivePlayerMoney(playerid, Player[playerid][Money]);
 	SetPlayerSkin(playerid, Player[playerid][Skin]);
-	SetPlayerFightingStyle(playerid, Player[playerid][FightStyle]);
+	SetPlayerFightingStyle(playerid, FIGHT_STYLE:Player[playerid][FightStyle]);
 	SetPlayerInterior(playerid, Player[playerid][Interior]);
 	SetPlayerVirtualWorld(playerid, Player[playerid][VirtualWorld]);
 

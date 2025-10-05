@@ -178,7 +178,7 @@ hook OnPlayerEnterVehicle(playerid, vehicleid, ispassenger) {
     }
 }
 
-hook OnPlayerStateChange(playerid, newstate, oldstate)
+hook OnPlayerStateChange(playerid, PLAYER_STATE:newstate, PLAYER_STATE:oldstate)
 {
 	if (newstate == PLAYER_STATE_DRIVER) 
     {
@@ -190,7 +190,7 @@ hook OnPlayerStateChange(playerid, newstate, oldstate)
 	return 1;
 }
 
-hook OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
+hook OnPlayerKeyStateChange(playerid, KEY:newkeys, KEY:oldkeys)
 {
 	if(GetPlayerState(playerid) == PLAYER_STATE_DRIVER)
     {
