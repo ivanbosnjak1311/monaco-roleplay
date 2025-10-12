@@ -69,7 +69,7 @@ enum E_PLAYERS
 	AdminLevel,
 	CharGender,
 	Skin,
-	FightStyle,
+	FIGHT_STYLE:FightStyle,
 	Money,
 	BankMoney,
 	Kills,
@@ -379,11 +379,8 @@ public OnRegisterHash(playerid)
 {
  	new hash[BCRYPT_HASH_LENGTH];
 	bcrypt_get_hash(hash, sizeof(hash));
-	
-	for (new i = 0; i < BCRYPT_HASH_LENGTH; i++)
-    {
-        Player[playerid][Password][i] = hash[i];
-    }
+
+	strcopy(Player[playerid][Password], hash, MAX_PASSWORD_LENGTH);
 
 	Player[playerid][Registered] = 0;
 
@@ -492,7 +489,7 @@ LogPlayer(playerid) {
 	// set values
 	GivePlayerMoney(playerid, Player[playerid][Money]);
 	SetPlayerSkin(playerid, Player[playerid][Skin]);
-	SetPlayerFightingStyle(playerid, FIGHT_STYLE:Player[playerid][FightStyle]);
+	SetPlayerFightingStyle(playerid, Player[playerid][FightStyle]);
 	SetPlayerInterior(playerid, Player[playerid][Interior]);
 	SetPlayerVirtualWorld(playerid, Player[playerid][VirtualWorld]);
 

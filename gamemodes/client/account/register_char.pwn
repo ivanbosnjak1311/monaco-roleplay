@@ -34,14 +34,14 @@ static Female_Skins_Data[][E_REG_CHAR_SKIN_DATA] = {
 enum    E_REG_CHAR_FIGHT_STYLES
 {
 	fight_style_name[15],
-	fight_style_id
+	FIGHT_STYLE:fight_style_id
 }
 static Fight_Styles[][E_REG_CHAR_FIGHT_STYLES] = {
-	{"Normalno", 	        4},
-	{"Boks", 		        5},
-	{"Kung-Fu", 	        6},
-	{"Koljeno-Glava", 		7},
-	{"Lakat", 	            16}
+	{"Normalno", 	        FIGHT_STYLE_NORMAL},
+	{"Boks", 		        FIGHT_STYLE_BOXING},
+	{"Kung-Fu", 	        FIGHT_STYLE_KUNGFU},
+	{"Koljeno-Glava", 		FIGHT_STYLE_KNEEHEAD},
+	{"Lakat", 	            FIGHT_STYLE_ELBOW}
 };
 
 enum    E_REG_CHAR_HISTORY
@@ -242,7 +242,7 @@ CompleteRegistration(playerid) {
 		WEAPON_FIST, 0, WEAPON_FIST, 0, WEAPON_FIST, 0
 	);
 	SpawnPlayer(playerid);
-    SetPlayerFightingStyle(playerid, FIGHT_STYLE:Player[playerid][FightStyle]);
+    SetPlayerFightingStyle(playerid, Player[playerid][FightStyle]);
     SetPlayerInterior(playerid, 0);
     SetPlayerVirtualWorld(playerid, 0);
 }
